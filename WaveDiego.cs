@@ -262,7 +262,7 @@ public class WaveDiego : MonoBehaviour
     //abajo arriba
     //derecha izquierda
     //arriba 
-    // hay que repetir esto por en Grid/2 un cuadrado 4*4 solo se tiene que hacer dos veces, numero imppares ? ni puta idea 
+    // hay que repetir esto por en Grid/2 un cuadrado 4*4 solo se tiene que hacer dos veces, numero imppares ? 
     //for(int i = 0; i < Grid ; i++)
     //{
     //   if k == even or 0 GetValue(Array[k][i]);
